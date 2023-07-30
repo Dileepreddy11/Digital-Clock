@@ -1,5 +1,6 @@
 # Digital-Clock
 <h1 align="center">Hi 👋, I'm Dileep</h1>
+https://dileepreddy11.github.io/Digital-Clock/
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepreddy11&label=Profile%20views&color=0e75b6&style=flat" alt="dileepreddy11" /> </p>
