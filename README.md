@@ -1,6 +1,9 @@
+
+Live demo
+https://dileepreddy11.github.io/Digital-Clock/
 # Loginform
 <h1 align="center">Hi 👋, I'm Dileep</h1>
-<h3 align="center">I am a student from GNITC and Apassionate frontend developer from India</h3>
+<h3 align="center">I am a student from GNITC and A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepreddy11&label=Profile%20views&color=0e75b6&style=flat" alt="dileepreddy11" /> </p>
 
