@@ -6,7 +6,7 @@ body{
   align-items:center;
   height:100vh;
   justify-content: center;
-background-image: url("/Image/photo-1499002238440-d264edd596ec.jpeg");
+background-image: url("./Image/photo-1499002238440-d264edd596ec.jpeg");
   background-size:cover;
 }
 h2{
