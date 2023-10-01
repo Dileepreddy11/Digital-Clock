@@ -1,5 +1,6 @@
 
 Live demo 👉  https://dileepreddy11.github.io/Digital-Clock/
+# Digital-Clock
 <h1 align="center">Hi 👋, I'm Dileep</h1>
 <h3 align="center">I am a student from GNITC and A passionate frontend developer from India</h3>
 
